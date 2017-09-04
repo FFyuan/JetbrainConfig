@@ -1,6 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="selectedTheme" value="DARKER" />
+    <option name="isContrastMode" value="true" />
+    <option name="accentColor" value="ab47bc" />
     <option name="defaultBackground" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
   </component>
 </application>

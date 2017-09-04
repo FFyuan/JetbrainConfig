@@ -1,0 +1,642 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/__tests__/git.js" timestamp="1502304674405">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/user.js" timestamp="1502220129503">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons-front-end/modules/categories/controllers/home.coffee" timestamp="1500933975646">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/src/commands/__tests__/logbook.js" timestamp="1502291111616">
+        <mark key="'" line="71" column="62" />
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="24" />
+        <mark key="." line="22" column="24" />
+        <mark key="^" line="22" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/src/__mocks__/jira-connector.js" timestamp="1502212212846">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="36" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/__mocks__/hosts.js" timestamp="1501624921130">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/src/__tests__/jira.test.js" timestamp="1501260227787">
+        <mark key="[" line="31" column="54" />
+        <mark key="]" line="31" column="48" />
+        <mark key="." line="31" column="48" />
+        <mark key="^" line="31" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/barterever/api/models/__tests__/User.js" timestamp="1502062097354">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" timestamp="1502388786896">
+        <mark key="[" line="159" column="47" />
+        <mark key="]" line="159" column="51" />
+        <mark key="." line="159" column="51" />
+        <mark key="^" line="159" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/src/__mocks__/config.json.js" timestamp="1501624597573">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="86" column="1" />
+        <mark key="]" line="86" column="1" />
+        <mark key="." line="86" column="1" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/itier-groupon-v2-coupons/README.md" timestamp="1497641298492">
+        <mark key="[" line="352" column="69" />
+        <mark key="]" line="352" column="101" />
+        <mark key="^" line="352" column="101" />
+        <mark key="." line="352" column="101" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/mmi.js" timestamp="1502388733543">
+        <mark key="[" line="27" column="70" />
+        <mark key="]" line="27" column="70" />
+        <mark key="." line="27" column="70" />
+        <mark key="^" line="27" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons-front-end/modules/maps/frontend/components/merchants-deals-list.vue" timestamp="1500061335918">
+        <mark key="[" line="4" column="116" />
+        <mark key="]" line="4" column="121" />
+        <mark key="^" line="4" column="121" />
+        <mark key="." line="4" column="121" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/tvinder-workshop-two/src/components/movies.js" timestamp="1502238463206">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="7" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="26" column="4" />
+        <mark key="^" line="26" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/jest.config" timestamp="1501624562535">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="2" />
+        <mark key="." line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/hosts.js" timestamp="1502308447614">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/__tests__/jira.js" timestamp="1502381400824">
+        <mark key="'" line="51" column="12" />
+        <mark key="[" line="41" column="52" />
+        <mark key="]" line="41" column="62" />
+        <mark key="." line="41" column="52" />
+        <mark key="^" line="39" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons-front-end/.istanbul.yml" timestamp="1498100660001">
+        <mark key="[" line="72" column="29" />
+        <mark key="]" line="72" column="38" />
+        <mark key="." line="72" column="38" />
+        <mark key="^" line="72" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/barterever/test/api/models/User.test.js" timestamp="1502378395905">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="10" column="50" />
+        <mark key="^" line="10" column="50" />
+        <mark key="." line="10" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons-front-end/modules/smart_redirect/index.coffee" timestamp="1497906445117">
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="19" />
+        <mark key="^" line="28" column="19" />
+        <mark key="." line="28" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/barterever/api/models/__tests__/User.test.js" timestamp="1502063760878">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/barterever/test/User.test.js" timestamp="1502073041124">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/package.json" timestamp="1501879619903">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="6" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/__tests__/jira.test.js" timestamp="1501261249969">
+        <mark key="[" line="28" column="26" />
+        <mark key="]" line="28" column="34" />
+        <mark key="^" line="28" column="34" />
+        <mark key="." line="28" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons-front-end/modules/shared/helpers/coupons_api_builder.coffee" timestamp="1499353792131">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="25" />
+        <mark key="^" line="4" column="25" />
+        <mark key="." line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons-front-end/test/integration/routing/smart_redirection.test.coffee" timestamp="1498753477185">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="32" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/src/__mocks__/config.js" timestamp="1501217110935">
+        <mark key="[" line="71" column="1" />
+        <mark key="]" line="71" column="1" />
+        <mark key="^" line="71" column="1" />
+        <mark key="." line="71" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/src/__mocks__/config.json" timestamp="1502381343253">
+        <mark key="[" line="31" column="68" />
+        <mark key="]" line="31" column="68" />
+        <mark key="." line="31" column="68" />
+        <mark key="^" line="30" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/__mocks__/jira-connector.js" timestamp="1501195775976">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="21" column="31" />
+        <mark key="^" line="21" column="31" />
+        <mark key="." line="21" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/__tests__/hosts.js" timestamp="1502305376782">
+        <mark key="'" line="16" column="46" />
+        <mark key="[" line="60" column="34" />
+        <mark key="]" line="60" column="34" />
+        <mark key="." line="60" column="34" />
+        <mark key="^" line="60" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/README.md" timestamp="1502220843196">
+        <mark key="[" line="31" column="136" />
+        <mark key="]" line="31" column="136" />
+        <mark key="." line="31" column="136" />
+        <mark key="^" line="32" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/barterever/api/policies/__tests__/isLoggedIn.test.js" timestamp="1502062613575">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="2" />
+        <mark key="^" line="10" column="2" />
+        <mark key="." line="10" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons-front-end/modules/maps/frontend/utils/mixins.coffee" timestamp="1500058289832">
+        <mark key="[" line="14" column="51" />
+        <mark key="]" line="14" column="65" />
+        <mark key="^" line="14" column="65" />
+        <mark key="." line="14" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/Git/barterever/api/data/categories.json" timestamp="1504483227795">
+        <mark key="'" line="2540" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/tvinder-workshop-two/src/components/action.js" timestamp="1502236648278">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="12" column="5" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons-front-end/test/server/modules/coupons_api/base.test.coffee" timestamp="1498592644377">
+        <mark key="[" line="84" column="41" />
+        <mark key="]" line="84" column="41" />
+        <mark key="^" line="84" column="41" />
+        <mark key="." line="84" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/__tests__/mmi.js" timestamp="1502222034203">
+        <mark key="[" line="28" column="45" />
+        <mark key="]" line="28" column="45" />
+        <mark key="^" line="28" column="45" />
+        <mark key="." line="28" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons-front-end/core/request_modules.coffee" timestamp="1499788622664">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="76" column="44" />
+        <mark key="^" line="76" column="44" />
+        <mark key="." line="76" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons-front-end/test/stubs/redirect_rules/redirect-rules.json" timestamp="1498753016402">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+        <mark key="^" line="5" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons-front-end/modules/maps/home.html.mustache" timestamp="1499973300331">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/barterever/jest/setup.js" timestamp="1502377881056">
+        <mark key="'" line="20" column="19" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/tvinder-workshop-two/src/components/app.js" timestamp="1502237481970">
+        <mark key="[" line="3" column="53" />
+        <mark key="]" line="3" column="43" />
+        <mark key="." line="3" column="43" />
+        <mark key="^" line="3" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons-front-end/core/controllers.coffee" timestamp="1498079180240">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="1" />
+        <mark key="^" line="14" column="1" />
+        <mark key="." line="14" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/config.json" timestamp="1502388175147">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="19" />
+        <mark key="^" line="22" column="19" />
+        <mark key="." line="22" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/barterever/test/client/pages/index.test.js" timestamp="1502380117133">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons-front-end/docs/deployment.md" timestamp="1501084494929">
+        <mark key="[" line="21" column="60" />
+        <mark key="]" line="21" column="63" />
+        <mark key="." line="21" column="63" />
+        <mark key="^" line="21" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons-front-end/modules/maps/frontend/components/user-position-marker.vue" timestamp="1499974063916">
+        <mark key="[" line="23" column="15" />
+        <mark key="]" line="23" column="16" />
+        <mark key="^" line="2" column="72" />
+        <mark key="." line="23" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/update.js" timestamp="1502289585674">
+        <mark key="'" line="32" column="9" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="8" column="85" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/.nvmrc" timestamp="1501693010061">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="0" column="4" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1502388792966">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons-front-end/core/routes.js" timestamp="1497976550751">
+        <mark key="[" line="42" column="21" />
+        <mark key="]" line="42" column="20" />
+        <mark key="." line="42" column="20" />
+        <mark key="^" line="42" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons-front-end/modules/maps/frontend/components/merchant-marker.vue" timestamp="1500047295509">
+        <mark key="[" line="2" column="50" />
+        <mark key="]" line="2" column="56" />
+        <mark key="^" line="2" column="56" />
+        <mark key="." line="2" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/__tests__/jira-test.js" timestamp="1501198606041">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="10" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons-front-end/modules/maps/frontend/components/coupons-near-me-map.vue" timestamp="1499796813811">
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="33" column="17" />
+        <mark key="^" line="33" column="17" />
+        <mark key="." line="33" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/barterever/package.json" timestamp="1502380587532">
+        <mark key="[" line="55" column="18" />
+        <mark key="]" line="56" column="54" />
+        <mark key="." line="56" column="54" />
+        <mark key="^" line="56" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/src/__mocks__/utils/git.js" timestamp="1501260203779">
+        <mark key="[" line="4" column="64" />
+        <mark key="]" line="4" column="67" />
+        <mark key="^" line="4" column="67" />
+        <mark key="." line="4" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/src/__mocks__/shelljs.js" timestamp="1501552539926">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/__mocks__/git.js" timestamp="1501696459784">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/index.js" timestamp="1502393275192">
+        <mark key="[" line="39" column="128" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/tvinder-workshop-two/src/main.js" timestamp="1502235774378">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="9" column="5" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons-front-end/config.development.json.backup" timestamp="1498495836555">
+        <mark key="[" line="36" column="22" />
+        <mark key="]" line="36" column="19" />
+        <mark key="^" line="36" column="19" />
+        <mark key="." line="36" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/git.js" timestamp="1501696838916">
+        <mark key="'" line="151" column="91" />
+        <mark key="[" line="150" column="6" />
+        <mark key="]" line="150" column="27" />
+        <mark key="." line="150" column="27" />
+        <mark key="^" line="150" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons-front-end/core/middleware.coffee" timestamp="1499785422784">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="29" column="1" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/tvinder-workshop-two/index.html" timestamp="1502236879441">
+        <mark key="[" line="25" column="36" />
+        <mark key="]" line="25" column="36" />
+        <mark key="." line="25" column="36" />
+        <mark key="^" line="25" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/tvinder-workshop-two/src/components/header.js" timestamp="1502237520786">
+        <mark key="[" line="29" column="9" />
+        <mark key="]" line="29" column="10" />
+        <mark key="^" line="32" column="17" />
+        <mark key="." line="29" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/release-automator/src/commands/hotfix.js" timestamp="1502393131345">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons-front-end/test/server/modules/categories/controllers/index.test.coffee" timestamp="1500934925882">
+        <mark key="[" line="39" column="78" />
+        <mark key="]" line="39" column="70" />
+        <mark key="^" line="39" column="70" />
+        <mark key="." line="39" column="70" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons-front-end/test/stubs/redirect_rules/redirect-table.json" timestamp="1498080449756">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3363" column="0" />
+        <mark key="^" line="3363" column="0" />
+        <mark key="." line="3363" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="3" column="18" filename="$USER_HOME$/Documents/repos/release-automator/src/__mocks__/jira-connector.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/repos/release-automator/src/__mocks__/jira-connector.js" />
+      <jump line="6" column="12" filename="$USER_HOME$/Documents/repos/release-automator/src/__mocks__/jira-connector.js" />
+      <jump line="1" column="33" filename="$USER_HOME$/Documents/repos/release-automator/jest.config.js" />
+      <jump line="144" column="9" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
+      <jump line="152" column="112" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
+      <jump line="161" column="27" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
+      <jump line="6" column="25" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
+      <jump line="93" column="48" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
+      <jump line="104" column="36" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
+      <jump line="95" column="20" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
+      <jump line="5" column="23" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
+      <jump line="132" column="14" filename="$USER_HOME$/Documents/repos/release-automator/node_modules/jira-connector/index.js" />
+      <jump line="262" column="29" filename="$USER_HOME$/Documents/repos/release-automator/node_modules/jira-connector/index.js" />
+      <jump line="283" column="29" filename="$USER_HOME$/Documents/repos/release-automator/node_modules/jira-connector/index.js" />
+      <jump line="108" column="23" filename="$USER_HOME$/Documents/repos/release-automator/node_modules/jira-connector/index.js" />
+      <jump line="115" column="43" filename="$USER_HOME$/Documents/repos/release-automator/node_modules/jira-connector/index.js" />
+      <jump line="116" column="38" filename="$USER_HOME$/Documents/repos/release-automator/node_modules/jira-connector/index.js" />
+      <jump line="241" column="29" filename="$USER_HOME$/Documents/repos/release-automator/node_modules/jira-connector/index.js" />
+      <jump line="189" column="49" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
+      <jump line="195" column="10" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/hosts.js" />
+      <jump line="7" column="6" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/__tests__/hosts.js" />
+      <jump line="7" column="37" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/hosts.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/logbook.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/logbook.js" />
+      <jump line="13" column="9" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/logbook.js" />
+      <jump line="153" column="0" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
+      <jump line="15" column="22" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/logbook.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/repos/release-automator/package-lock.json" />
+      <jump line="557" column="5" filename="$USER_HOME$/Documents/repos/release-automator/package-lock.json" />
+      <jump line="43" column="0" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/logbook.js" />
+      <jump line="64" column="16" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/logbook.js" />
+      <jump line="52" column="2" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/logbook.js" />
+      <jump line="21" column="11" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/logbook.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/logbook.js" />
+      <jump line="22" column="11" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/finish.js" />
+      <jump line="37" column="17" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/start.js" />
+      <jump line="44" column="56" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/start.js" />
+      <jump line="6" column="30" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/start.js" />
+      <jump line="14" column="58" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/start.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/repos/release-automator/src/__mocks__/config.json.js" />
+      <jump line="44" column="56" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/finish.js" />
+      <jump line="21" column="10" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/hosts.js" />
+      <jump line="34" column="25" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/logbook.js" />
+      <jump line="151" column="91" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/git.js" />
+      <jump line="12" column="6" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/__mocks__/git.js" />
+      <jump line="16" column="2" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/__mocks__/git.js" />
+      <jump line="17" column="4" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/__tests__/git.js" />
+      <jump line="18" column="4" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/__tests__/git.js" />
+      <jump line="8" column="30" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/logbook.js" />
+      <jump line="30" column="47" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/logbook.js" />
+      <jump line="54" column="26" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/logbook.js" />
+      <jump line="62" column="77" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/logbook.js" />
+      <jump line="39" column="276" filename="$USER_HOME$/Documents/repos/release-automator/config.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/repos/release-automator/config.json" />
+      <jump line="21" column="214" filename="$USER_HOME$/Documents/repos/release-automator/config.json" />
+      <jump line="1" column="24" filename="$USER_HOME$/Documents/repos/release-automator/config.json" />
+      <jump line="20" column="110" filename="$USER_HOME$/Documents/repos/release-automator/config.json" />
+      <jump line="22" column="94" filename="$USER_HOME$/Documents/repos/release-automator/config.json" />
+      <jump line="38" column="68" filename="$USER_HOME$/Documents/repos/release-automator/config.json" />
+      <jump line="40" column="79" filename="$USER_HOME$/Documents/repos/release-automator/config.json" />
+      <jump line="56" column="27" filename="$USER_HOME$/Documents/repos/release-automator/config.json" />
+      <jump line="1" column="24" filename="$USER_HOME$/Documents/repos/release-automator/src/__mocks__/config.json" />
+      <jump line="30" column="46" filename="$USER_HOME$/Documents/repos/release-automator/src/__mocks__/config.json" />
+      <jump line="5" column="24" filename="$USER_HOME$/Documents/repos/release-automator/src/__mocks__/config.json" />
+      <jump line="29" column="65" filename="$USER_HOME$/Documents/repos/release-automator/src/__mocks__/config.json" />
+      <jump line="31" column="67" filename="$USER_HOME$/Documents/repos/release-automator/src/__mocks__/config.json" />
+      <jump line="46" column="68" filename="$USER_HOME$/Documents/repos/release-automator/src/__mocks__/config.json" />
+      <jump line="48" column="79" filename="$USER_HOME$/Documents/repos/release-automator/src/__mocks__/config.json" />
+      <jump line="8" column="18" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/hosts.js" />
+      <jump line="46" column="46" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/__tests__/hosts.js" />
+      <jump line="9" column="2" filename="$USER_HOME$/Documents/repos/barterever/api/models/__tests__/User.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/repos/barterever/api/models/__tests__/User.js" />
+      <jump line="13" column="15" filename="$USER_HOME$/Documents/repos/barterever/jest/setup.js" />
+      <jump line="1" column="6" filename="$USER_HOME$/Documents/repos/barterever/jest/setup.js" />
+      <jump line="20" column="19" filename="$USER_HOME$/Documents/repos/barterever/jest/setup.js" />
+      <jump line="45" column="8" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/clean.js" />
+      <jump line="10" column="40" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/finish.js" />
+      <jump line="69" column="25" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/finish.js" />
+      <jump line="23" column="28" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/logbook.js" />
+      <jump line="59" column="62" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/__tests__/logbook.js" />
+      <jump line="76" column="9" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/logbook.js" />
+      <jump line="87" column="0" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/logbook.js" />
+      <jump line="14" column="35" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/logbook.js" />
+      <jump line="49" column="12" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/__tests__/jira.js" />
+      <jump line="44" column="8" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/clean.js" />
+      <jump line="32" column="72" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/logbook.js" />
+      <jump line="49" column="47" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/clean.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/clean.js" />
+      <jump line="54" column="0" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/clean.js" />
+      <jump line="30" column="9" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/update.js" />
+      <jump line="4" column="33" filename="$USER_HOME$/Documents/repos/tvinder-workshop-two/src/main.js" />
+      <jump line="4" column="5" filename="$USER_HOME$/Documents/repos/tvinder-workshop-two/src/components/movies.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/repos/tvinder-workshop-two/src/components/movies.js" />
+      <jump line="3" column="15" filename="$USER_HOME$/Documents/repos/barterever/test/client/pages/index.test.js" />
+      <jump line="31" column="2" filename="$USER_HOME$/Documents/repos/barterever/test/client/pages/index.test.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/Documents/repos/barterever/test/client/pages/index.test.js" />
+      <jump line="2540" column="4" filename="$USER_HOME$/Documents/Git/barterever/api/data/categories.json" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAuYXJndW1lbnRzKCcnKQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">PC9yZXBvPjwvcmVwb3M+</text>
+      </register>
+      <register name="/" type="4">
+        <text>request</text>
+      </register>
+      <register name="0" type="4">
+        <text>{code}git fetch origin\ngit checkout master\ngit reset --hard origin/master\n</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAuYXJndW1lbnRzKCcnKQo=</text>
+      </register>
+      <register name="q" type="4">
+        <text>jk</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICovCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSB4eXVhbiBvbiA4LzEwLzE3Lgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">LyoqCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICJzYWMxIjogIiIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHsgcmVzb2x2ZSB9IGZyb20gJ3BhdGgnCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IE51eHQgZnJvbSAnbnV4dCcK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbmZpZy5kZXYgPSBmYWxzZTsgLy8gcHJvZHVjdGlvbiBidWlsZAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAvLyBFeGFtcGxlIG9mIHRlc3QK</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>request</last-search>
+      <last-offset />
+      <last-pattern>request</last-pattern>
+      <last-replace>\$</last-replace>
+      <last-substitute>#</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>googlr</entry>
+        <entry>gtm</entry>
+        <entry>google</entry>
+        <entry>redirect</entry>
+        <entry>test</entry>
+        <entry>deploy</entry>
+        <entry>config.jira</entry>
+        <entry encoding="base64">XDxqc1w+</entry>
+        <entry>hosts</entry>
+        <entry>format</entry>
+        <entry>time</entry>
+        <entry>#</entry>
+        <entry>commander</entry>
+        <entry>config</entry>
+        <entry>hostsStr</entry>
+        <entry>catch</entry>
+        <entry>git</entry>
+        <entry>$</entry>
+        <entry>\$</entry>
+        <entry>request</entry>
+      </history-search>
+      <history-cmd>
+        <entry>s/&quot;/'</entry>
+        <entry>s/&quot;/'/g</entry>
+        <entry>%s/callback/cb/g</entry>
+        <entry>q!</entry>
+        <entry>:w</entry>
+        <entry>'</entry>
+        <entry>ww</entry>
+        <entry>%s/;/</entry>
+        <entry encoding="base64">JzwsJz5zLzov</entry>
+        <entry>%s/locateMe/setUserPosition/</entry>
+        <entry>%s/merchantDeals/hightlightedMerchantDeals/gc</entry>
+        <entry>&quot;w</entry>
+        <entry>s/#/\$/g</entry>
+        <entry>e</entry>
+        <entry>w\</entry>
+        <entry encoding="base64">JzwsJz4=</entry>
+        <entry>wq</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift meta pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>

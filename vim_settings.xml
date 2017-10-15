@@ -203,6 +203,12 @@
       <file name="$USER_HOME$/Documents/Git/barterever/api/data/categories.json" timestamp="1504483227795">
         <mark key="'" line="2540" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/Address.js" timestamp="1508103779844">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="15" column="18" />
+        <mark key="^" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/tvinder-workshop-two/src/components/action.js" timestamp="1502236648278">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -227,10 +233,17 @@
         <mark key="^" line="76" column="44" />
         <mark key="." line="76" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/User.js" timestamp="1508099487674">
-        <mark key="[" line="19" column="6" />
-        <mark key="]" line="19" column="6" />
-        <mark key="." line="19" column="6" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserPlatform.js" timestamp="1508104567060">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="5" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="10" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/User.js" timestamp="1508104641739">
+        <mark key="[" line="24" column="32" />
+        <mark key="]" line="24" column="32" />
+        <mark key="." line="24" column="32" />
+        <mark key="^" line="24" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/test/stubs/redirect_rules/redirect-rules.json" timestamp="1498753016402">
         <mark key="[" line="9" column="5" />
@@ -243,12 +256,6 @@
         <mark key="]" line="7" column="26" />
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/barterever/jest/setup.js" timestamp="1502377881056">
-        <mark key="'" line="20" column="19" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tvinder-workshop-two/src/components/app.js" timestamp="1502237481970">
         <mark key="[" line="3" column="53" />
@@ -368,6 +375,12 @@
         <mark key="]" line="36" column="19" />
         <mark key="^" line="36" column="19" />
         <mark key="." line="36" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGame.js" timestamp="1508104480607">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="25" />
+        <mark key="." line="7" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/git.js" timestamp="1501696838916">
         <mark key="'" line="151" column="91" />
@@ -516,11 +529,11 @@
       <jump line="2540" column="4" filename="$USER_HOME$/Documents/Git/barterever/api/data/categories.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBhZGRyZXNzOiB7CiAgICAgIAogICAgfQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9yZXBvPjwvcmVwb3M+</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>request</text>
@@ -528,38 +541,38 @@
       <register name="0" type="4">
         <text>{code}git fetch origin\ngit checkout master\ngit reset --hard origin/master\n</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBhZGRyZXNzOiB7CiAgICAgIAogICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <text>jk</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBnYW1lczogewogICAgICAKICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgZGVmYXVsdHNUbzogW10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAuYXJndW1lbnRzKCcnKQo=</text>
+        <text encoding="base64">ICAgICAgdHlwZTogJ2pzb24nLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGVzOiB7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSB4eXVhbiBvbiA4LzEwLzE3Lgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgcGxhdGZvcm1TbHVnOiB7CiAgICAgIHR5cGU6ICdzdHJpbmcnLAogICAgICByZXF1aXJlZDogdHJ1ZQogICAgfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICJzYWMxIjogIiIK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBhZGRyZXNzOiB7CiAgICAgIAogICAgfQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcmVzb2x2ZSB9IGZyb20gJ3BhdGgnCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBnYW1lczogewogICAgICAKICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IE51eHQgZnJvbSAnbnV4dCcK</text>
+        <text encoding="base64">ICAuYXJndW1lbnRzKCcnKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -613,8 +626,8 @@
         <entry encoding="base64">JzwsJz4=</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -97,6 +97,9 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="4" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-games/create.js" timestamp="1508369888815">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/hosts.js" timestamp="1502308447614">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -306,6 +309,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="8" column="85" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-games/add.js" timestamp="1508370057393">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/repos/release-automator/.nvmrc" timestamp="1501693010061">
         <mark key="[" line="0" column="4" />
@@ -536,14 +544,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,
-    count: {
-      type: 'number',
-      required: true
-    }</text>
+        <text>'Add a game to the current User</text>
       </register>
       <register name="-" type="4">
-        <text>platformSlug</text>
+        <text>'Add a game to the current User</text>
       </register>
       <register name="/" type="4">
         <text>request</text>

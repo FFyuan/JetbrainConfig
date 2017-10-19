@@ -431,12 +431,13 @@
         <mark key="^" line="18" column="52" />
         <mark key="." line="18" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" timestamp="1508383046769">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="59" column="7" />
-        <mark key="]" line="33" column="0" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" timestamp="1508386411082">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="60" column="6" />
         <mark key="n" line="34" column="14" />
-        <mark key="." line="33" column="0" />
+        <mark key="." line="60" column="6" />
+        <mark key="^" line="60" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/repos/release-automator/src/commands/hotfix.js" timestamp="1502393131345">
         <mark key="[" line="7" column="0" />

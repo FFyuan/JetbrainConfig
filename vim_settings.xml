@@ -431,13 +431,13 @@
         <mark key="^" line="18" column="52" />
         <mark key="." line="18" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" timestamp="1508375924041">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="68" column="5" />
-        <mark key="]" line="69" column="2" />
-        <mark key="." line="69" column="2" />
-        <mark key="^" line="69" column="2" />
-        <mark key="n" line="37" column="14" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" timestamp="1508376728459">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="67" column="2" />
+        <mark key="n" line="35" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/repos/release-automator/src/commands/hotfix.js" timestamp="1502393131345">
         <mark key="[" line="7" column="0" />
@@ -562,7 +562,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIGNvbnNvbGUubG9nKGVycm9yKQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -574,35 +574,35 @@
         <text encoding="base64">Y29uc3QgY2xpZW50ID0gaWdkYignZjUwN2UyMzIyY2QxNzhiOGU0NTgxZDliZmM2MjRlZjUnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIGNvbnNvbGUubG9nKGVycm9yKQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpCg==</text>
+        <text encoding="base64">Y29uc3QgeyBnZXRFbnRpdHlNYWluSW1hZ2UgfSA9IHJlcXVpcmUoJy4uLy4uLy4uL2NvbW1vbi9pZ2RiJykK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIGNvbnNvbGUubG9nKGVycm9yKQogICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGlmICghdXNlcikgewogICAgICByZXR1cm4gZXhpdHMuYmFkUmVxdWVzdCgpCiAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>cache.wrap(
       `${cacheKeyGamePrefix}${</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgbGltaXQ6IDEK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGdhbWVTbHVnID0gY2xpZXRbXQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGdhbWVTbHVnID0gY2xpZXRbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

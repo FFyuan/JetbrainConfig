@@ -136,7 +136,7 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/video-games/endpoint.js" timestamp="1508374927560">
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/video-games/endpoint.js" timestamp="1508381599227">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="55" />
       </file>
@@ -431,13 +431,12 @@
         <mark key="^" line="18" column="52" />
         <mark key="." line="18" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" timestamp="1508376728459">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="67" column="2" />
-        <mark key="n" line="35" column="14" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" timestamp="1508383046769">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="59" column="7" />
+        <mark key="]" line="33" column="0" />
+        <mark key="n" line="34" column="14" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/release-automator/src/commands/hotfix.js" timestamp="1502393131345">
         <mark key="[" line="7" column="0" />
@@ -456,6 +455,12 @@
         <mark key="]" line="3363" column="0" />
         <mark key="^" line="3363" column="0" />
         <mark key="." line="3363" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Git/gamevix/config/autoreload.js" timestamp="1508381557841">
+        <mark key="[" line="3" column="74" />
+        <mark key="]" line="3" column="39" />
+        <mark key="^" line="3" column="39" />
+        <mark key="." line="3" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -562,47 +567,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vdmVyaXR5IHRoZSB1c2VyIGV4aXN0cwo=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>request</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgY2xpZW50ID0gaWdkYignZjUwN2UyMzIyY2QxNzhiOGU0NTgxZDliZmM2MjRlZjUnKQo=</text>
+        <text encoding="base64">ICAgICAgLy8gICAgIGlkczogW2lucHV0cy5nYW1lSUdEQklkXSwKICAgICAgLy8gICAgIGZpZWxkczogWydpZCcsICduYW1lJywgJ3NsdWcnXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vdmVyaXR5IHRoZSB1c2VyIGV4aXN0cwo=</text>
       </register>
       <register name="q" type="4">
         <text>jk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgeyBnZXRFbnRpdHlNYWluSW1hZ2UgfSA9IHJlcXVpcmUoJy4uLy4uLy4uL2NvbW1vbi9pZ2RiJykK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGxhdGZvcm0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIGNvbnNvbGUubG9nKGVycm9yKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZ2FtZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1BsYXRmb3JtJywgcGxhdGZvcm0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICghdXNlcikgewogICAgICByZXR1cm4gZXhpdHMuYmFkUmVxdWVzdCgpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0dhbWUnLCBKU09OLnN0cmluZ2lmeShnYW1lKSkK</text>
       </register>
-      <register name="6" type="4">
-        <text>cache.wrap(
-      `${cacheKeyGamePrefix}${</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXNlcikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbGltaXQ6IDEK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGdhbWVTbHVnID0gY2xpZXRbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZpZWxkczogWydpZCcsICduYW1lJywgJ3NsdWcnXQogICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -654,12 +658,12 @@
         <entry>%s/merchantDeals/hightlightedMerchantDeals/gc</entry>
         <entry>&quot;w</entry>
         <entry>s/#/\$/g</entry>
-        <entry>e</entry>
         <entry>w\</entry>
         <entry encoding="base64">JzwsJz4=</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

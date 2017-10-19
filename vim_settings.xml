@@ -325,7 +325,7 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508373934804">
+      <file name="/Dummy.txt" timestamp="1508416919808">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -394,11 +394,11 @@
         <mark key="^" line="36" column="19" />
         <mark key="." line="36" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGame.js" timestamp="1508358205861">
-        <mark key="[" line="16" column="5" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGame.js" timestamp="1508417008379">
+        <mark key="[" line="19" column="0" />
         <mark key="k" line="10" column="14" />
-        <mark key="]" line="16" column="5" />
-        <mark key="." line="16" column="5" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/git.js" timestamp="1501696838916">
         <mark key="'" line="151" column="91" />
@@ -431,13 +431,13 @@
         <mark key="^" line="18" column="52" />
         <mark key="." line="18" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" timestamp="1508386411082">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="60" column="6" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" timestamp="1508417835867">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="67" column="33" />
+        <mark key="]" line="67" column="37" />
         <mark key="n" line="34" column="14" />
-        <mark key="." line="60" column="6" />
-        <mark key="^" line="60" column="6" />
+        <mark key="." line="67" column="37" />
+        <mark key="^" line="67" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/repos/release-automator/src/commands/hotfix.js" timestamp="1502393131345">
         <mark key="[" line="7" column="0" />
@@ -567,11 +567,11 @@
       <jump line="70" column="0" filename="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vdmVyaXR5IHRoZSB1c2VyIGV4aXN0cwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgY29uc3QgdXNlclBsYXRmb3JtID0gYXdhaXQgVXNlclBsYXRmb3JtLmZpbmRPckNyZWF0ZSh7CiAgICAgICAgSUdEQlNsdWc6IHJhd1BsYXRmb3JtLnNsdWcsCiAgICAgICAgSUdEQklkOiByYXdHYW1lLmlkCiAgICAgIH0p</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>request</text>
@@ -579,35 +579,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLy8gICAgIGlkczogW2lucHV0cy5nYW1lSUdEQklkXSwKICAgICAgLy8gICAgIGZpZWxkczogWydpZCcsICduYW1lJywgJ3NsdWcnXQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vdmVyaXR5IHRoZSB1c2VyIGV4aXN0cwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgY29uc3QgdXNlclBsYXRmb3JtID0gYXdhaXQgVXNlclBsYXRmb3JtLmZpbmRPckNyZWF0ZSh7CiAgICAgICAgSUdEQlNsdWc6IHJhd1BsYXRmb3JtLnNsdWcsCiAgICAgICAgSUdEQklkOiByYXdHYW1lLmlkCiAgICAgIH0p</text>
       </register>
       <register name="q" type="4">
         <text>jk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGxhdGZvcm0pCg==</text>
+        <text encoding="base64">ICAgICAgb21nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZ2FtZSkK</text>
+        <text encoding="base64">ICAgICAgLy92ZXJpZnkgZG9uZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1BsYXRmb3JtJywgcGxhdGZvcm0pCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcGxhdGZvcm0gPSBwbGF0Zm9ybVJlc3VsdHMuYm9keVswXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0dhbWUnLCBKU09OLnN0cmluZ2lmeShnYW1lKSkK</text>
+        <text encoding="base64">ICAgIC8vdmVyaXR5IHRoZSB1c2VyIGV4aXN0cwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXNlcikK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGxhdGZvcm0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZ2FtZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1BsYXRmb3JtJywgcGxhdGZvcm0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpZWxkczogWydpZCcsICduYW1lJywgJ3NsdWcnXQogICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0dhbWUnLCBKU09OLnN0cmluZ2lmeShnYW1lKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

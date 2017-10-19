@@ -431,11 +431,12 @@
         <mark key="^" line="18" column="52" />
         <mark key="." line="18" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" timestamp="1508375150029">
-        <mark key="[" line="37" column="19" />
-        <mark key="]" line="37" column="24" />
-        <mark key="." line="37" column="24" />
-        <mark key="^" line="37" column="24" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" timestamp="1508375924041">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="68" column="5" />
+        <mark key="]" line="69" column="2" />
+        <mark key="." line="69" column="2" />
+        <mark key="^" line="69" column="2" />
         <mark key="n" line="37" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/repos/release-automator/src/commands/hotfix.js" timestamp="1502393131345">
@@ -458,10 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="18" filename="$USER_HOME$/Documents/repos/release-automator/src/__mocks__/jira-connector.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/Documents/repos/release-automator/src/__mocks__/jira-connector.js" />
-      <jump line="6" column="12" filename="$USER_HOME$/Documents/repos/release-automator/src/__mocks__/jira-connector.js" />
-      <jump line="1" column="33" filename="$USER_HOME$/Documents/repos/release-automator/jest.config.js" />
       <jump line="144" column="9" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
       <jump line="152" column="112" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
       <jump line="161" column="27" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
@@ -558,10 +555,14 @@
       <jump line="31" column="2" filename="$USER_HOME$/Documents/repos/barterever/test/client/pages/index.test.js" />
       <jump line="35" column="0" filename="$USER_HOME$/Documents/repos/barterever/test/client/pages/index.test.js" />
       <jump line="2540" column="4" filename="$USER_HOME$/Documents/Git/barterever/api/data/categories.json" />
+      <jump line="43" column="6" filename="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" />
+      <jump line="70" column="0" filename="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIGNvbnNvbGUubG9nKGVycm9yKQogICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -573,35 +574,35 @@
         <text encoding="base64">Y29uc3QgY2xpZW50ID0gaWdkYignZjUwN2UyMzIyY2QxNzhiOGU0NTgxZDliZmM2MjRlZjUnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpCg==</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIGNvbnNvbGUubG9nKGVycm9yKQogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text>jk</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGlmICghdXNlcikgewogICAgICByZXR1cm4gZXhpdHMuYmFkUmVxdWVzdCgpCiAgICB9Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>cache.wrap(
       `${cacheKeyGamePrefix}${</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgbGltaXQ6IDEK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGdhbWVTbHVnID0gY2xpZXRbXQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgY2FjaGUgPSByZXF1aXJlKCcuLi8uLi9zZXJ2aWNlcy9jYWNoZScpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

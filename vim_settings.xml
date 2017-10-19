@@ -28,11 +28,12 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/config/policies.js" timestamp="1508361116049">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/config/policies.js" timestamp="1508427519567">
+        <mark key="'" line="43" column="32" />
+        <mark key="[" line="21" column="3" />
+        <mark key="]" line="24" column="35" />
+        <mark key="^" line="24" column="35" />
+        <mark key="." line="24" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/__mocks__/hosts.js" timestamp="1501624921130">
         <mark key="[" line="14" column="23" />
@@ -182,6 +183,7 @@
         <mark key="." line="31" column="68" />
         <mark key="^" line="30" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/model/attributes.js" timestamp="1508427562131" />
       <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/__mocks__/jira-connector.js" timestamp="1501195775976">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="21" column="31" />
@@ -263,6 +265,12 @@
         <mark key="]" line="9" column="5" />
         <mark key="." line="9" column="5" />
         <mark key="^" line="5" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-platform/add.js" timestamp="1508427574067">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/modules/maps/home.html.mustache" timestamp="1499973300331">
         <mark key="[" line="5" column="7" />
@@ -431,13 +439,12 @@
         <mark key="^" line="18" column="52" />
         <mark key="." line="18" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" timestamp="1508417835867">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="67" column="33" />
-        <mark key="]" line="67" column="37" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" timestamp="1508426761909">
+        <mark key="'" line="99" column="0" />
+        <mark key="]" line="78" column="5" />
         <mark key="n" line="34" column="14" />
-        <mark key="." line="67" column="37" />
-        <mark key="^" line="67" column="37" />
+        <mark key="." line="78" column="5" />
+        <mark key="^" line="78" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/repos/release-automator/src/commands/hotfix.js" timestamp="1502393131345">
         <mark key="[" line="7" column="0" />
@@ -465,8 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="9" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
-      <jump line="152" column="112" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
       <jump line="161" column="27" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
       <jump line="6" column="25" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
       <jump line="93" column="48" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
@@ -565,49 +570,51 @@
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" />
       <jump line="70" column="0" filename="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" />
+      <jump line="20" column="2" filename="$USER_HOME$/Documents/Git/gamevix/config/policies.js" />
+      <jump line="40" column="32" filename="$USER_HOME$/Documents/Git/gamevix/config/policies.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgY29uc3QgdXNlclBsYXRmb3JtID0gYXdhaXQgVXNlclBsYXRmb3JtLmZpbmRPckNyZWF0ZSh7CiAgICAgICAgSUdEQlNsdWc6IHJhd1BsYXRmb3JtLnNsdWcsCiAgICAgICAgSUdEQklkOiByYXdHYW1lLmlkCiAgICAgIH0p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgaWdkYiA9IHJlcXVpcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>rawGame</text>
       </register>
       <register name="/" type="4">
         <text>request</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAgIGlkczogW2lucHV0cy5nYW1lSUdEQklkXSwKICAgICAgLy8gICAgIGZpZWxkczogWydpZCcsICduYW1lJywgJ3NsdWcnXQo=</text>
+        <text encoding="base64">ICAgICAgICBJR0RCU2x1ZzogcmF3R2FtZS5zbHVnLAogICAgICAgIElHREJJZDogcmF3R2FtZS5pZCwKICAgICAgICBwbGF0Zm9ybTogdXNlclBsYXRmb3JtLmlkCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgY29uc3QgdXNlclBsYXRmb3JtID0gYXdhaXQgVXNlclBsYXRmb3JtLmZpbmRPckNyZWF0ZSh7CiAgICAgICAgSUdEQlNsdWc6IHJhd1BsYXRmb3JtLnNsdWcsCiAgICAgICAgSUdEQklkOiByYXdHYW1lLmlkCiAgICAgIH0p</text>
+      <register name="1" type="2">
+        <text encoding="base64">Y29uc3QgaWdkYiA9IHJlcXVpcgo=</text>
       </register>
       <register name="q" type="4">
         <text>jk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgb21nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy92ZXJpZnkgZG9uZQo=</text>
+        <text encoding="base64">ICAgICAgICBJR0RCSWQ6IHJhd0dhbWUuaWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcGxhdGZvcm0gPSBwbGF0Zm9ybVJlc3VsdHMuYm9keVswXQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1BsYXRmb3JtJywgcmF3UGxhdGZvcm0uc2x1ZykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vdmVyaXR5IHRoZSB1c2VyIGV4aXN0cwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0dhbWUnLCByYXdHYW1lLnNsdWcpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGxhdGZvcm0pCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgY29uc3QgdXNlclBsYXRmb3JtID0gYXdhaXQgVXNlclBsYXRmb3JtLmZpbmRPckNyZWF0ZSh7CiAgICAgICAgSUdEQlNsdWc6IHJhd1BsYXRmb3JtLnNsdWcsCiAgICAgICAgSUdEQklkOiByYXdHYW1lLmlkCiAgICAgIH0p</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZ2FtZSkK</text>
+        <text encoding="base64">ICAgICAgb21nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1BsYXRmb3JtJywgcGxhdGZvcm0pCg==</text>
+        <text encoding="base64">ICAgICAgLy92ZXJpZnkgZG9uZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0dhbWUnLCBKU09OLnN0cmluZ2lmeShnYW1lKSkK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcGxhdGZvcm0gPSBwbGF0Zm9ybVJlc3VsdHMuYm9keVswXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

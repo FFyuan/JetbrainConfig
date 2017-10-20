@@ -250,11 +250,11 @@
         <mark key="^" line="76" column="44" />
         <mark key="." line="76" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserPlatform.js" timestamp="1508439096806">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="11" />
-        <mark key="^" line="2" column="11" />
-        <mark key="." line="2" column="11" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserPlatform.js" timestamp="1508471007519">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+        <mark key="^" line="4" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/test/stubs/redirect_rules/redirect-rules.json" timestamp="1498753016402">
         <mark key="[" line="9" column="5" />
@@ -262,11 +262,11 @@
         <mark key="." line="9" column="5" />
         <mark key="^" line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-platform/add.js" timestamp="1508427574067">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-platform/add.js" timestamp="1508471280890">
+        <mark key="[" line="52" column="70" />
+        <mark key="]" line="53" column="31" />
+        <mark key="." line="53" column="31" />
+        <mark key="^" line="53" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Git/gamevix/config/igdb.js" timestamp="1508436494773">
         <mark key="[" line="0" column="13" />
@@ -446,12 +446,12 @@
         <mark key="^" line="18" column="52" />
         <mark key="." line="18" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" timestamp="1508437344114">
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" timestamp="1508471239342">
         <mark key="'" line="92" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="5" />
-        <mark key="." line="60" column="5" />
-        <mark key="^" line="60" column="5" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="69" column="9" />
+        <mark key="." line="89" column="27" />
+        <mark key="^" line="89" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/repos/release-automator/src/commands/hotfix.js" timestamp="1502393131345">
         <mark key="[" line="7" column="0" />
@@ -582,16 +582,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdXNlclBsYXRmb3JtID0gYXdhaXQgVXNlclBsYXRmb3JtLmZpbmRPckNyZWF0ZSgKICAgICAgICB7CiAgICAgICAgICBJR0RCU2x1ZzogcmF3UGxhdGZvcm0uc2x1ZywKICAgICAgICAgIElHREJJZDogcmF3UGxhdGZvcm0uaWQKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgIElHREJTbHVnOiByYXdQbGF0Zm9ybS5zbHVnLAogICAgICAgICAgSUdEQklkOiByYXdQbGF0Zm9ybS5pZAogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>foreach</text>
       </register>
       <register name="/" type="4">
         <text>request</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBJR0RCU2x1ZzogcmF3R2FtZS5zbHVnLAogICAgICAgIElHREJJZDogcmF3R2FtZS5pZCwKICAgICAgICBwbGF0Zm9ybTogdXNlclBsYXRmb3JtLmlkCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdXNlclBsYXRmb3JtID0gYXdhaXQgVXNlclBsYXRmb3JtLmZpbmRPckNyZWF0ZSgKICAgICAgICB7CiAgICAgICAgICBJR0RCU2x1ZzogcmF3UGxhdGZvcm0uc2x1ZywKICAgICAgICAgIElHREJJZDogcmF3UGxhdGZvcm0uaWQKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgIElHREJTbHVnOiByYXdQbGF0Zm9ybS5zbHVnLAogICAgICAgICAgSUdEQklkOiByYXdQbGF0Zm9ybS5pZAogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -600,32 +600,31 @@
         <text>jk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgcGxhdGZvcm1XaGl0ZWxpc3QgPSByZXF1aXJlKCcuLi8nKQo=</text>
+        <text encoding="base64">Y29uc3QgY2FjaGVLZXlHYW1lUHJlZml4ID0gJ2FwaS9nYW1lcy86Z2FtZUlHREJJZDonCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgYnJlYWsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgYnJlYWs7Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICBfLmZpbHRlcih3aGl0ZWxpc3QsIChwbGF0Zm9ybSkgPT4gewogICAgaWYgKHBsYXRmb3JtW2tleV0gPT0gdmFsdWUpIHsKICAgICAgZm91bmQgPSB0cnVlOwogICAgfQogIH0p</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgcGxhdGZvcm1XaGl0ZWxpc3QgPSByZXF1aXJlKCcuLi8nKQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgY28K</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>nst user = await User.findOne({ id: inputs.userId })
       if (!user) {
         return exits.badRequest()
       }</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICB1c2VySWQ6IHsKICAgICAgdHlwZTogJ3N0cmluZycsCiAgICAgIHJlcXVpcmVkOiB0cnVlCiAgICB9LAog</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBnYW1lSUdEQklk</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIHVzZXJJZDogewogICAgICB0eXBlOiAnc3RyaW5nJywKICAgICAgcmVxdWlyZWQ6IHRydWUKICAgIH0s</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgY2xpZW50ID0gaWdkYignZjUwN2UyMzIyY2QxNzhiOGU0NTgxZDliZmM2MjRlZjUnKQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>igdb('f507e2322cd178b8e4581d9bfc624ef5')
-c</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

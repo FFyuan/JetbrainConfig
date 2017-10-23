@@ -15,25 +15,11 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/release-automator/src/commands/__tests__/logbook.js" timestamp="1502291111616">
-        <mark key="'" line="71" column="62" />
-        <mark key="[" line="22" column="21" />
-        <mark key="]" line="22" column="24" />
-        <mark key="." line="22" column="24" />
-        <mark key="^" line="22" column="24" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/release-automator/src/__mocks__/jira-connector.js" timestamp="1502212212846">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="36" />
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/config/policies.js" timestamp="1508427519567">
-        <mark key="'" line="43" column="32" />
-        <mark key="[" line="21" column="3" />
-        <mark key="]" line="21" column="35" />
-        <mark key="^" line="21" column="35" />
-        <mark key="." line="21" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/__mocks__/hosts.js" timestamp="1501624921130">
         <mark key="[" line="14" column="23" />
@@ -47,25 +33,11 @@
         <mark key="." line="31" column="48" />
         <mark key="^" line="31" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/barterever/api/models/__tests__/User.js" timestamp="1502062097354">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" timestamp="1502388786896">
         <mark key="[" line="159" column="47" />
         <mark key="]" line="159" column="51" />
         <mark key="." line="159" column="51" />
         <mark key="^" line="159" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/release-automator/src/__mocks__/config.json.js" timestamp="1501624597573">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="86" column="1" />
-        <mark key="]" line="86" column="1" />
-        <mark key="." line="86" column="1" />
-        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/itier-groupon-v2-coupons/README.md" timestamp="1497641298492">
         <mark key="[" line="352" column="69" />
@@ -85,13 +57,6 @@
         <mark key="^" line="4" column="121" />
         <mark key="." line="4" column="121" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/tvinder-workshop-two/src/components/movies.js" timestamp="1502238463206">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="7" />
-        <mark key="]" line="26" column="4" />
-        <mark key="." line="26" column="4" />
-        <mark key="^" line="26" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/release-automator/jest.config" timestamp="1501624562535">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="4" column="1" />
@@ -105,13 +70,6 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/__tests__/jira.js" timestamp="1502381400824">
-        <mark key="'" line="51" column="12" />
-        <mark key="[" line="41" column="52" />
-        <mark key="]" line="41" column="62" />
-        <mark key="." line="41" column="52" />
-        <mark key="^" line="39" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/.istanbul.yml" timestamp="1498100660001">
         <mark key="[" line="72" column="29" />
@@ -192,13 +150,6 @@
         <mark key="^" line="21" column="31" />
         <mark key="." line="21" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/__tests__/hosts.js" timestamp="1502305376782">
-        <mark key="'" line="16" column="46" />
-        <mark key="[" line="60" column="34" />
-        <mark key="]" line="60" column="34" />
-        <mark key="." line="60" column="34" />
-        <mark key="^" line="60" column="34" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/release-automator/README.md" timestamp="1502220843196">
         <mark key="[" line="31" column="136" />
         <mark key="]" line="31" column="136" />
@@ -250,23 +201,12 @@
         <mark key="^" line="76" column="44" />
         <mark key="." line="76" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserPlatform.js" timestamp="1508471007519">
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="4" column="18" />
-        <mark key="." line="4" column="18" />
-        <mark key="^" line="4" column="18" />
-      </file>
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserPlatform.js" timestamp="1508471007519" />
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/test/stubs/redirect_rules/redirect-rules.json" timestamp="1498753016402">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="9" column="5" />
         <mark key="." line="9" column="5" />
         <mark key="^" line="5" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-platform/add.js" timestamp="1508471280890">
-        <mark key="[" line="52" column="70" />
-        <mark key="]" line="53" column="31" />
-        <mark key="." line="53" column="31" />
-        <mark key="^" line="53" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Git/gamevix/config/igdb.js" timestamp="1508436494773">
         <mark key="[" line="0" column="13" />
@@ -298,13 +238,6 @@
         <mark key="^" line="22" column="19" />
         <mark key="." line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/barterever/test/client/pages/index.test.js" timestamp="1502380117133">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/docs/deployment.md" timestamp="1501084494929">
         <mark key="[" line="21" column="60" />
         <mark key="]" line="21" column="63" />
@@ -316,13 +249,6 @@
         <mark key="]" line="23" column="16" />
         <mark key="^" line="2" column="72" />
         <mark key="." line="23" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/update.js" timestamp="1502289585674">
-        <mark key="'" line="32" column="9" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="8" column="85" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-games/add.js" timestamp="1508370057393">
         <mark key="[" line="1" column="11" />
@@ -415,13 +341,6 @@
         <mark key="]" line="19" column="1" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/git.js" timestamp="1501696838916">
-        <mark key="'" line="151" column="91" />
-        <mark key="[" line="150" column="6" />
-        <mark key="]" line="150" column="27" />
-        <mark key="." line="150" column="27" />
-        <mark key="^" line="150" column="27" />
-      </file>
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/core/middleware.coffee" timestamp="1499785422784">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -446,12 +365,10 @@
         <mark key="^" line="18" column="52" />
         <mark key="." line="18" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" timestamp="1508471239342">
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" timestamp="1508720510532">
         <mark key="'" line="92" column="0" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="69" column="9" />
-        <mark key="." line="89" column="27" />
-        <mark key="^" line="89" column="27" />
+        <mark key="." line="3" column="27" />
+        <mark key="^" line="3" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/repos/release-automator/src/commands/hotfix.js" timestamp="1502393131345">
         <mark key="[" line="7" column="0" />
@@ -471,6 +388,7 @@
         <mark key="^" line="3363" column="0" />
         <mark key="." line="3363" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/policies/isUserItself.js" timestamp="1508719979536" />
       <file name="$USER_HOME$/Documents/Git/gamevix/config/autoreload.js" timestamp="1508381557841">
         <mark key="[" line="3" column="74" />
         <mark key="]" line="3" column="39" />

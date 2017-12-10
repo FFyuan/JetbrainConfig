@@ -362,6 +362,13 @@
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/Git/gamevix/config/routes.js" timestamp="1512940573179">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="19" column="61" />
+        <mark key="]" line="20" column="43" />
+        <mark key="^" line="20" column="43" />
+        <mark key="." line="20" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/release-automator/src/commands/hotfix.js" timestamp="1502393131345">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="23" />
@@ -388,9 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="27" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
-      <jump line="6" column="25" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
-      <jump line="93" column="48" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
       <jump line="104" column="36" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
       <jump line="95" column="20" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
@@ -488,6 +492,9 @@
       <jump line="70" column="0" filename="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" />
       <jump line="20" column="2" filename="$USER_HOME$/Documents/Git/gamevix/config/policies.js" />
       <jump line="40" column="32" filename="$USER_HOME$/Documents/Git/gamevix/config/policies.js" />
+      <jump line="23" column="4" filename="$USER_HOME$/Documents/Git/gamevix/config/routes.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/Git/gamevix/config/routes.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/Documents/Git/gamevix/config/routes.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

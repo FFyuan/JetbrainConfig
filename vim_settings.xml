@@ -143,7 +143,6 @@
         <mark key="." line="31" column="68" />
         <mark key="^" line="30" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/model/attributes.js" timestamp="1508427562131" />
       <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/__mocks__/jira-connector.js" timestamp="1501195775976">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="21" column="31" />
@@ -201,7 +200,6 @@
         <mark key="^" line="76" column="44" />
         <mark key="." line="76" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserPlatform.js" timestamp="1508471007519" />
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/test/stubs/redirect_rules/redirect-rules.json" timestamp="1498753016402">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="9" column="5" />
@@ -359,14 +357,8 @@
         <mark key="^" line="32" column="17" />
         <mark key="." line="29" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/config/routes.js" timestamp="1508373820331">
-        <mark key="[" line="18" column="25" />
-        <mark key="]" line="18" column="52" />
-        <mark key="^" line="18" column="52" />
-        <mark key="." line="18" column="52" />
-      </file>
       <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" timestamp="1508720510532">
-        <mark key="'" line="92" column="0" />
+        <mark key="'" line="97" column="0" />
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
       </file>
@@ -388,7 +380,6 @@
         <mark key="^" line="3363" column="0" />
         <mark key="." line="3363" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/policies/isUserItself.js" timestamp="1508719979536" />
       <file name="$USER_HOME$/Documents/Git/gamevix/config/autoreload.js" timestamp="1508381557841">
         <mark key="[" line="3" column="74" />
         <mark key="]" line="3" column="39" />

@@ -21,6 +21,12 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/Git/gamevix/config/policies.js" timestamp="1512942129337">
+        <mark key="[" line="28" column="44" />
+        <mark key="]" line="29" column="26" />
+        <mark key="^" line="29" column="26" />
+        <mark key="." line="29" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/__mocks__/hosts.js" timestamp="1501624921130">
         <mark key="[" line="14" column="23" />
         <mark key="]" line="14" column="23" />
@@ -206,6 +212,13 @@
         <mark key="." line="9" column="5" />
         <mark key="^" line="5" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/market-scores/get.js" timestamp="1512942933731">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="32" column="63" />
+        <mark key="]" line="32" column="64" />
+        <mark key="." line="32" column="64" />
+        <mark key="^" line="1" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/Git/gamevix/config/igdb.js" timestamp="1508436494773">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="19" />
@@ -357,17 +370,17 @@
         <mark key="^" line="32" column="17" />
         <mark key="." line="29" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" timestamp="1508720510532">
-        <mark key="'" line="97" column="0" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" timestamp="1512942631609">
+        <mark key="'" line="31" column="8" />
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/config/routes.js" timestamp="1512940573179">
+      <file name="$USER_HOME$/Documents/Git/gamevix/config/routes.js" timestamp="1512941905797">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="19" column="61" />
-        <mark key="]" line="20" column="43" />
-        <mark key="^" line="20" column="43" />
-        <mark key="." line="20" column="43" />
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="19" column="51" />
+        <mark key="^" line="19" column="51" />
+        <mark key="." line="19" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/repos/release-automator/src/commands/hotfix.js" timestamp="1502393131345">
         <mark key="[" line="7" column="0" />
@@ -395,8 +408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="36" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
-      <jump line="31" column="0" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
       <jump line="95" column="20" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
       <jump line="5" column="23" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
       <jump line="132" column="14" filename="$USER_HOME$/Documents/repos/release-automator/node_modules/jira-connector/index.js" />
@@ -495,13 +506,15 @@
       <jump line="23" column="4" filename="$USER_HOME$/Documents/Git/gamevix/config/routes.js" />
       <jump line="33" column="0" filename="$USER_HOME$/Documents/Git/gamevix/config/routes.js" />
       <jump line="34" column="0" filename="$USER_HOME$/Documents/Git/gamevix/config/routes.js" />
+      <jump line="31" column="8" filename="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/Git/gamevix/api/controllers/market-scores/get.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdXNlclBsYXRmb3JtID0gYXdhaXQgVXNlclBsYXRmb3JtLmZpbmRPckNyZWF0ZSgKICAgICAgICB7CiAgICAgICAgICBJR0RCU2x1ZzogcmF3UGxhdGZvcm0uc2x1ZywKICAgICAgICAgIElHREJJZDogcmF3UGxhdGZvcm0uaWQKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgIElHREJTbHVnOiByYXdQbGF0Zm9ybS5zbHVnLAogICAgICAgICAgSUdEQklkOiByYXdQbGF0Zm9ybS5pZAogICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>requrie</text>
       </register>
       <register name="-" type="4">
-        <text>foreach</text>
+        <text>requrie</text>
       </register>
       <register name="/" type="4">
         <text>request</text>
@@ -515,32 +528,29 @@
       <register name="q" type="4">
         <text>jk</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgY2FjaGVLZXlHYW1lUHJlZml4ID0gJ2FwaS9nYW1lcy86Z2FtZUlHREJJZDonCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIG5vdEZvdW5kOiB7CiAgICAgIHN0YXR1c0NvZGU6IDQwNAogICAgfQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYnJlYWsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICBiYWRSZXF1ZXN0OiB7CiAgICAgIHN0YXR1c0NvZGU6IDQwMAogICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYnJlYWs7Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBfLmZpbHRlcih3aGl0ZWxpc3QsIChwbGF0Zm9ybSkgPT4gewogICAgaWYgKHBsYXRmb3JtW2tleV0gPT0gdmFsdWUpIHsKICAgICAgZm91bmQgPSB0cnVlOwogICAgfQogIH0p</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgY2FjaGVLZXlHYW1lUHJlZml4ID0gJ2FwaS9nYW1lcy86Z2FtZUlHREJJZDonCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgYnJlYWsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgcGxhdGZvcm1XaGl0ZWxpc3QgPSByZXF1aXJlKCcuLi8nKQo=</text>
+        <text encoding="base64">ICAgICAgYnJlYWs7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY28K</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICBfLmZpbHRlcih3aGl0ZWxpc3QsIChwbGF0Zm9ybSkgPT4gewogICAgaWYgKHBsYXRmb3JtW2tleV0gPT0gdmFsdWUpIHsKICAgICAgZm91bmQgPSB0cnVlOwogICAgfQogIH0p</text>
       </register>
-      <register name="9" type="4">
-        <text>nst user = await User.findOne({ id: inputs.userId })
-      if (!user) {
-        return exits.badRequest()
-      }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

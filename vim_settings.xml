@@ -212,12 +212,11 @@
         <mark key="." line="9" column="5" />
         <mark key="^" line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/market-scores/get.js" timestamp="1512944976036">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="48" column="46" />
-        <mark key="]" line="48" column="47" />
-        <mark key="." line="48" column="47" />
-        <mark key="^" line="45" column="85" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/market-scores/get.js" timestamp="1512949290414">
+        <mark key="[" line="50" column="8" />
+        <mark key="]" line="50" column="14" />
+        <mark key="." line="50" column="14" />
+        <mark key="^" line="50" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Git/gamevix/config/igdb.js" timestamp="1508436494773">
         <mark key="[" line="0" column="13" />

@@ -212,11 +212,11 @@
         <mark key="." line="9" column="5" />
         <mark key="^" line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/market-scores/get.js" timestamp="1512949937525">
-        <mark key="[" line="3" column="47" />
-        <mark key="]" line="3" column="56" />
-        <mark key="." line="3" column="56" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/market-scores/get.js" timestamp="1512958919348">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
         <mark key="^" line="3" column="56" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Git/gamevix/config/igdb.js" timestamp="1508436494773">
         <mark key="[" line="0" column="13" />
@@ -509,8 +509,8 @@
       <jump line="34" column="12" filename="$USER_HOME$/Documents/Git/gamevix/api/controllers/market-scores/get.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>id</text>
@@ -528,28 +528,28 @@
         <text>jk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiBleGl0cy5zdWNjZXNzKHtzY29yZTogaW5wdXRzLmlkfSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc2NvcmUgPSAwLjMgKiAoMTAwIC8gMTQuMCAqIChNYXRoLmxvZzIocG9wdWxhcml0eSkgLSBkZWZhdWx0UG9wdWxhcml0eSkgKyA1MCkgKyAwLjMgKiByYXRpbmcgKyAwLjQgKiAoKGRhdGUgLSBkZWZhdWx0Rmlyc3RSZWxlYXNlRGF0ZSkgLyAyMDczNjAwMDAwMDAwLjAgKiAxMDAgKyA1MCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmF0aW5nU2NvcmUgPSBnYW1lLnJhdGluZyB8fCBkZWZhdWx0UmF0aW5nCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIG5vdEZvdW5kOiB7CiAgICAgIHN0YXR1c0NvZGU6IDQwNAogICAgfQ==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICBleGl0czogewogICAgYmFkUmVxdWVzdDogewogICAgICBzdGF0dXNDb2RlOiA0MDAKICAgIH0KICB9LA==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBiYWRSZXF1ZXN0OiB7CiAgICAgIHN0YXR1c0NvZGU6IDQwMAogICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIHJldHVybiBleGl0cy5zdWNjZXNzKHtzY29yZTogaW5wdXRzLmlkfSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc3Qgc2NvcmUgPSAwLjMgKiAoMTAwIC8gMTQuMCAqIChNYXRoLmxvZzIocG9wdWxhcml0eSkgLSBkZWZhdWx0UG9wdWxhcml0eSkgKyA1MCkgKyAwLjMgKiByYXRpbmcgKyAwLjQgKiAoKGRhdGUgLSBkZWZhdWx0Rmlyc3RSZWxlYXNlRGF0ZSkgLyAyMDczNjAwMDAwMDAwLjAgKiAxMDAgKyA1MCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgcmF0aW5nU2NvcmUgPSBnYW1lLnJhdGluZyB8fCBkZWZhdWx0UmF0aW5nCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgY2FjaGVLZXlHYW1lUHJlZml4ID0gJ2FwaS9nYW1lcy86Z2FtZUlHREJJZDonCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIG5vdEZvdW5kOiB7CiAgICAgIHN0YXR1c0NvZGU6IDQwNAogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

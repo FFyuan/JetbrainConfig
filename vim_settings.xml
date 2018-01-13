@@ -22,10 +22,10 @@
         <mark key="^" line="7" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Git/gamevix/config/policies.js" timestamp="1512942129337">
-        <mark key="[" line="28" column="44" />
-        <mark key="]" line="29" column="26" />
-        <mark key="^" line="29" column="26" />
-        <mark key="." line="29" column="26" />
+        <mark key="[" line="24" column="44" />
+        <mark key="]" line="24" column="26" />
+        <mark key="^" line="24" column="26" />
+        <mark key="." line="24" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/repos/release-automator/src/utils/__mocks__/hosts.js" timestamp="1501624921130">
         <mark key="[" line="14" column="23" />
@@ -212,7 +212,7 @@
         <mark key="." line="9" column="5" />
         <mark key="^" line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/market-scores/get.js" timestamp="1515870552674">
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/market-scores/get.js" timestamp="1515872454014">
         <mark key="[" line="65" column="82" />
         <mark key="]" line="65" column="102" />
         <mark key="." line="65" column="102" />
@@ -370,12 +370,11 @@
         <mark key="." line="29" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" timestamp="1512942631609">
-        <mark key="'" line="31" column="8" />
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Git/gamevix/config/routes.js" timestamp="1512949970338">
-        <mark key="'" line="35" column="0" />
+        <mark key="'" line="37" column="0" />
         <mark key="[" line="20" column="29" />
         <mark key="]" line="20" column="38" />
         <mark key="^" line="20" column="38" />

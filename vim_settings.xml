@@ -173,9 +173,6 @@
         <mark key="^" line="14" column="65" />
         <mark key="." line="14" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/barterever/api/data/categories.json" timestamp="1504483227795">
-        <mark key="'" line="2540" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/Git/gamevix/api/helpers/get-game-market-scores.js" timestamp="1515874511616">
         <mark key="[" line="15" column="5" />
         <mark key="]" line="15" column="4" />
@@ -187,6 +184,13 @@
         <mark key="]" line="15" column="18" />
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Git/gamevix/common/configs/platforms.json" timestamp="1515881272321">
+        <mark key="'" line="24" column="2" />
+        <mark key="[" line="88" column="16" />
+        <mark key="]" line="89" column="19" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="88" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/repos/tvinder-workshop-two/src/components/action.js" timestamp="1502236648278">
         <mark key="[" line="2" column="0" />
@@ -419,7 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="43" filename="$USER_HOME$/Documents/repos/release-automator/node_modules/jira-connector/index.js" />
       <jump line="116" column="38" filename="$USER_HOME$/Documents/repos/release-automator/node_modules/jira-connector/index.js" />
       <jump line="241" column="29" filename="$USER_HOME$/Documents/repos/release-automator/node_modules/jira-connector/index.js" />
       <jump line="189" column="49" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/jira.js" />
@@ -519,10 +522,12 @@
       <jump line="32" column="12" filename="$USER_HOME$/Documents/Git/gamevix/api/controllers/market-scores/get.js" />
       <jump line="34" column="12" filename="$USER_HOME$/Documents/Git/gamevix/api/controllers/market-scores/get.js" />
       <jump line="20" column="40" filename="$USER_HOME$/Documents/Git/gamevix/config/routes.js" />
+      <jump line="20" column="2" filename="$USER_HOME$/Documents/Git/gamevix/common/configs/platforms.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>GameId</text>
+        <text>,
+    &quot;generation&quot;: 6</text>
       </register>
       <register name="-" type="4">
         <text>GameId</text>
@@ -530,8 +535,9 @@
       <register name="/" type="4">
         <text>id</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZ2FtZVJlc3VsdHMgPSBhd2FpdCBjYWNoZS53cmFwKAogICAgICAgIGAke2NhY2hlS2V5R2FtZVByZWZpeH0ke2lucHV0cy5pZ2RiR2FtZUlkfWAsCiAgICAgICAgKCkgPT4KICAgICAgICAgIGNsaWVudC5nYW1lcygKICAgICAgICAgICAgewogICAgICAgICAgICAgIGlkczogW2lucHV0cy5pZ2RiR2FtZUlkXQogICAgICAgICAgICB9LAogICAgICAgICAgICBbJ2lkJywgJ3BvcHVsYXJpdHknLCAndG90YWxfcmF0aW5nJywgJ2ZpcnN0X3JlbGVhc2VfZGF0ZScsICdwbCddCiAgICAgICAgICApCiAgICAgICkKICAgICAgaWYgKCFnYW1lUmVzdWx0cykgewogICAgICAgIHJldHVybiB0aGlzLnJlcy5zZW5kU3RhdHVzKDQwMCkKICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text>,
+    &quot;generation&quot;: 6</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

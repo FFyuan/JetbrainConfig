@@ -252,7 +252,6 @@
         <mark key="^" line="14" column="1" />
         <mark key="." line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/client/pages/games/_slug.vue" timestamp="1515874326201" />
       <file name="$USER_HOME$/Documents/repos/release-automator/config.json" timestamp="1502388175147">
         <mark key="[" line="22" column="18" />
         <mark key="]" line="22" column="19" />
@@ -379,10 +378,6 @@
         <mark key="]" line="29" column="10" />
         <mark key="^" line="32" column="17" />
         <mark key="." line="29" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/controllers/user-game/add.js" timestamp="1512942631609">
-        <mark key="." line="3" column="27" />
-        <mark key="^" line="3" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Git/gamevix/config/routes.js" timestamp="1515885548126">
         <mark key="'" line="20" column="40" />

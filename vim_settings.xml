@@ -77,6 +77,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGameSwapEnvelope.js" timestamp="1521412655142">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="5" />
+        <mark key="^" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/.istanbul.yml" timestamp="1498100660001">
         <mark key="[" line="72" column="29" />
         <mark key="]" line="72" column="38" />
@@ -215,11 +221,12 @@
         <mark key="^" line="76" column="44" />
         <mark key="." line="76" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGameSwap.js" timestamp="1521411497950">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="23" />
-        <mark key="^" line="3" column="23" />
-        <mark key="." line="3" column="23" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGameSwap.js" timestamp="1521412813866">
+        <mark key="'" line="26" column="33" />
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="27" column="16" />
+        <mark key="^" line="27" column="16" />
+        <mark key="." line="27" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/test/stubs/redirect_rules/redirect-rules.json" timestamp="1498753016402">
         <mark key="[" line="9" column="5" />
@@ -361,12 +368,12 @@
         <mark key="^" line="36" column="19" />
         <mark key="." line="36" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGame.js" timestamp="1521411516836">
-        <mark key="[" line="41" column="5" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGame.js" timestamp="1521412405102">
+        <mark key="[" line="39" column="4" />
         <mark key="k" line="10" column="14" />
-        <mark key="]" line="41" column="4" />
-        <mark key="." line="41" column="4" />
-        <mark key="^" line="41" column="4" />
+        <mark key="]" line="39" column="13" />
+        <mark key="." line="39" column="13" />
+        <mark key="^" line="39" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/core/middleware.coffee" timestamp="1499785422784">
         <mark key="[" line="30" column="0" />
@@ -419,7 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/hosts.js" />
       <jump line="7" column="6" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/__tests__/hosts.js" />
       <jump line="7" column="37" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/hosts.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/logbook.js" />
@@ -519,13 +525,14 @@
       <jump line="45" column="0" filename="$USER_HOME$/Documents/Git/gamevix/common/igdb.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Git/gamevix/common/igdb.js" />
       <jump line="23" column="2" filename="$USER_HOME$/Documents/Git/gamevix/common/igdb.js" />
+      <jump line="26" column="33" filename="$USER_HOME$/Documents/Git/gamevix/api/models/UserGameSwap.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICs=</text>
+        <text>model</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICs=</text>
+        <text>model</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
@@ -535,35 +542,35 @@
     &quot;generation&quot;: 6</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVzZXJHYW1lQjogewogICAgICBtb2RlbDogJ3VzZXJHYW1lJwogICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVzZXJHYW1lQjogewogICAgICBtb2RlbDogJ3VzZXJHYW1lJwogICAgfSwKICAgIHN0YXR1czogewogICAgICB0eXBlOiAnc3RyaW5nJywKICAgICAgZW51bTogWwogICAgICAgICcnCiAgICAgIF0KICAgIH0KCiAgfQp9Cg==</text>
+        <text encoding="base64">ICAgIHVzZXJHYW1lQjogewogICAgICBtb2RlbDogJ3VzZXJHYW1lJwogICAgfSwK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHVzZXJHYW1lQjogewogICAgICBtb2RlbDogJ3VzZXJHYW1lJwogICAgfSwKICAgIHN0YXR1czogewogICAgICB0eXBlOiAnc3RyaW5nJywKICAgICAgZW51bTogWwogICAgICAgICcnCiAgICAgIF0KICAgIH0KCiAgfQp9Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhwbGF0Zm9ybUlkLCBwbGF0Zm9ybXMpCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">YXRmb3JtSWQKICAgID8gcGxhdGZvcm1zLmZpbHRlcihwbGF0Zm9ybSA9PiBwbGF0Zm9ybS5pZ2RiSWQgPT0gcGxhdGZvcm1JZClbMF0uZ2VuZXJhdGlvbgogICAgOiAw</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>platformId
     ?</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgcmVxdWlyZWQ6IHRydWUK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgcGxhdGZvcm0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

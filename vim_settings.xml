@@ -215,11 +215,11 @@
         <mark key="^" line="76" column="44" />
         <mark key="." line="76" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGameSwap.js" timestamp="1521410128220">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="6" column="21" />
-        <mark key="." line="6" column="21" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGameSwap.js" timestamp="1521411497950">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/test/stubs/redirect_rules/redirect-rules.json" timestamp="1498753016402">
         <mark key="[" line="9" column="5" />
@@ -361,12 +361,12 @@
         <mark key="^" line="36" column="19" />
         <mark key="." line="36" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGame.js" timestamp="1521410103221">
-        <mark key="[" line="40" column="5" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGame.js" timestamp="1521411516836">
+        <mark key="[" line="41" column="5" />
         <mark key="k" line="10" column="14" />
-        <mark key="]" line="40" column="25" />
-        <mark key="." line="40" column="25" />
-        <mark key="^" line="40" column="25" />
+        <mark key="]" line="41" column="4" />
+        <mark key="." line="41" column="4" />
+        <mark key="^" line="41" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/core/middleware.coffee" timestamp="1499785422784">
         <mark key="[" line="30" column="0" />
@@ -522,10 +522,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>usergame</text>
+        <text encoding="base64">ICs=</text>
       </register>
       <register name="-" type="4">
-        <text>usergame</text>
+        <text encoding="base64">ICs=</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
@@ -535,35 +535,35 @@
     &quot;generation&quot;: 6</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwbGF0Zm9ybUlkLCBwbGF0Zm9ybXMpCg==</text>
+        <text encoding="base64">ICAgIHVzZXJHYW1lQjogewogICAgICBtb2RlbDogJ3VzZXJHYW1lJwogICAgfSwK</text>
       </register>
       <register name="q" type="4">
         <text>jk</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">YXRmb3JtSWQKICAgID8gcGxhdGZvcm1zLmZpbHRlcihwbGF0Zm9ybSA9PiBwbGF0Zm9ybS5pZ2RiSWQgPT0gcGxhdGZvcm1JZClbMF0uZ2VuZXJhdGlvbgogICAgOiAw</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHVzZXJHYW1lQjogewogICAgICBtb2RlbDogJ3VzZXJHYW1lJwogICAgfSwKICAgIHN0YXR1czogewogICAgICB0eXBlOiAnc3RyaW5nJywKICAgICAgZW51bTogWwogICAgICAgICcnCiAgICAgIF0KICAgIH0KCiAgfQp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwbGF0Zm9ybUlkLCBwbGF0Zm9ybXMpCg==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">YXRmb3JtSWQKICAgID8gcGxhdGZvcm1zLmZpbHRlcihwbGF0Zm9ybSA9PiBwbGF0Zm9ybS5pZ2RiSWQgPT0gcGxhdGZvcm1JZClbMF0uZ2VuZXJhdGlvbgogICAgOiAw</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="4">
         <text>platformId
     ?</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgcmVxdWlyZWQ6IHRydWUK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgcGxhdGZvcm0K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgcGxhdGZvcm1zID0gcmVxdWlyZSgnLi4vLi4vY29tbW9uL2NvbmZpZ3MvcGxhdGZvcm1zLmpzb24nKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcGxhdGZvcm1HZW5lcmF0aW9uID0gcGxhdGZvcm1zLmZpbmQK</text>
+        <text encoding="base64">Y29uc3QgcGxhdGZvcm0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

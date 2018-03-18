@@ -15,7 +15,6 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/database.json" timestamp="1520187644628" />
       <file name="$USER_HOME$/Documents/repos/release-automator/src/__mocks__/jira-connector.js" timestamp="1502212212846">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="36" />
@@ -215,6 +214,9 @@
         <mark key="]" line="76" column="44" />
         <mark key="^" line="76" column="44" />
         <mark key="." line="76" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGameSwap.js" timestamp="1521407540897">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/test/stubs/redirect_rules/redirect-rules.json" timestamp="1498753016402">
         <mark key="[" line="9" column="5" />

@@ -215,8 +215,11 @@
         <mark key="^" line="76" column="44" />
         <mark key="." line="76" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGameSwap.js" timestamp="1521407540897">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGameSwap.js" timestamp="1521410128220">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/test/stubs/redirect_rules/redirect-rules.json" timestamp="1498753016402">
         <mark key="[" line="9" column="5" />
@@ -358,11 +361,12 @@
         <mark key="^" line="36" column="19" />
         <mark key="." line="36" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGame.js" timestamp="1508417008379">
-        <mark key="[" line="19" column="0" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGame.js" timestamp="1521410103221">
+        <mark key="[" line="40" column="5" />
         <mark key="k" line="10" column="14" />
-        <mark key="]" line="19" column="1" />
-        <mark key="." line="19" column="0" />
+        <mark key="]" line="40" column="25" />
+        <mark key="." line="40" column="25" />
+        <mark key="^" line="40" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/core/middleware.coffee" timestamp="1499785422784">
         <mark key="[" line="30" column="0" />
@@ -518,10 +522,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>latform.</text>
+        <text>usergame</text>
       </register>
       <register name="-" type="4">
-        <text>latform.</text>
+        <text>usergame</text>
       </register>
       <register name="/" type="4">
         <text>id</text>

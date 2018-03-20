@@ -221,13 +221,13 @@
         <mark key="^" line="76" column="44" />
         <mark key="." line="76" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGameSwap.js" timestamp="1521413830418">
-        <mark key="'" line="41" column="33" />
-        <mark key="[" line="47" column="23" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGameSwap.js" timestamp="1521506384012">
+        <mark key="'" line="55" column="33" />
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="20" />
+        <mark key="." line="21" column="20" />
+        <mark key="^" line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/User.js" timestamp="1521413501077" />
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/test/stubs/redirect_rules/redirect-rules.json" timestamp="1498753016402">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="9" column="5" />
@@ -532,7 +532,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>swapGameRejected</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
@@ -548,28 +548,28 @@
         <text>jk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChpZCkgewo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">YXN5bmMgYmVmb3JlVXBkYXRlKHN3YXAsIGNiKSB7CiAgCn0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmIChpZCkgewo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVzZXJHYW1lQjogewogICAgICBtb2RlbDogJ3VzZXJHYW1lJwogICAgfSwK</text>
+        <text encoding="base64">YXN5bmMgYmVmb3JlVXBkYXRlKHN3YXAsIGNiKSB7CiAgCn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVzZXJHYW1lQjogewogICAgICBtb2RlbDogJ3VzZXJHYW1lJwogICAgfSwKICAgIHN0YXR1czogewogICAgICB0eXBlOiAnc3RyaW5nJywKICAgICAgZW51bTogWwogICAgICAgICcnCiAgICAgIF0KICAgIH0KCiAgfQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwbGF0Zm9ybUlkLCBwbGF0Zm9ybXMpCg==</text>
+        <text encoding="base64">ICAgIHVzZXJHYW1lQjogewogICAgICBtb2RlbDogJ3VzZXJHYW1lJwogICAgfSwK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">YXRmb3JtSWQKICAgID8gcGxhdGZvcm1zLmZpbHRlcihwbGF0Zm9ybSA9PiBwbGF0Zm9ybS5pZ2RiSWQgPT0gcGxhdGZvcm1JZClbMF0uZ2VuZXJhdGlvbgogICAgOiAw</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHVzZXJHYW1lQjogewogICAgICBtb2RlbDogJ3VzZXJHYW1lJwogICAgfSwKICAgIHN0YXR1czogewogICAgICB0eXBlOiAnc3RyaW5nJywKICAgICAgZW51bTogWwogICAgICAgICcnCiAgICAgIF0KICAgIH0KCiAgfQp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

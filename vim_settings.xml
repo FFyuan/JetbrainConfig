@@ -77,11 +77,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGameSwapEnvelope.js" timestamp="1521412655142">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="9" column="5" />
-        <mark key="^" line="9" column="5" />
-        <mark key="." line="9" column="5" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGameSwapEnvelope.js" timestamp="1521508788269">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="4" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/.istanbul.yml" timestamp="1498100660001">
         <mark key="[" line="72" column="29" />
@@ -221,12 +221,10 @@
         <mark key="^" line="76" column="44" />
         <mark key="." line="76" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGameSwap.js" timestamp="1521506384012">
-        <mark key="'" line="55" column="33" />
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="20" />
-        <mark key="." line="21" column="20" />
-        <mark key="^" line="21" column="20" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGameSwap.js" timestamp="1521508863194">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/test/stubs/redirect_rules/redirect-rules.json" timestamp="1498753016402">
         <mark key="[" line="9" column="5" />
@@ -270,6 +268,12 @@
         <mark key="]" line="22" column="19" />
         <mark key="^" line="22" column="19" />
         <mark key="." line="22" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/.eslintrc.json" timestamp="1521508692427">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="8" column="25" />
+        <mark key="^" line="8" column="25" />
+        <mark key="." line="8" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/docs/deployment.md" timestamp="1501084494929">
         <mark key="[" line="21" column="60" />
@@ -426,8 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="6" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/__tests__/hosts.js" />
-      <jump line="7" column="37" filename="$USER_HOME$/Documents/repos/release-automator/src/utils/hosts.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/logbook.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/logbook.js" />
       <jump line="13" column="9" filename="$USER_HOME$/Documents/repos/release-automator/src/commands/logbook.js" />
@@ -526,10 +528,12 @@
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Git/gamevix/common/igdb.js" />
       <jump line="23" column="2" filename="$USER_HOME$/Documents/Git/gamevix/common/igdb.js" />
       <jump line="26" column="33" filename="$USER_HOME$/Documents/Git/gamevix/api/models/UserGameSwap.js" />
+      <jump line="11" column="12" filename="$USER_HOME$/Documents/Git/gamevix/api/models/UserGameSwap.js" />
+      <jump line="39" column="33" filename="$USER_HOME$/Documents/Git/gamevix/api/models/UserGameSwap.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmVxdWlyZWQ6IHRydWUsCg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -542,34 +546,34 @@
     &quot;generation&quot;: 6</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmVxdWlyZWQ6IHRydWUsCg==</text>
       </register>
       <register name="q" type="4">
         <text>jk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmVxdWlyZWQ6IHRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmVxdWlyZWQ6IHRydWUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgcmVxdWlyZTogdHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChpZCkgewo=</text>
+        <text encoding="base64">ICAgICAgcmVxdWlyZTogdHJ1ZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXN5bmMgYmVmb3JlVXBkYXRlKHN3YXAsIGNiKSB7CiAgCn0K</text>
+        <text encoding="base64">ICAgICAgcmVxdWlyZWQ6IHRydWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBwb3RlbnRpYWxOZXh0U3RhdGUgPQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzZXJHYW1lQjogewogICAgICBtb2RlbDogJ3VzZXJHYW1lJwogICAgfSwK</text>
+        <text encoding="base64">ICBwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVzZXJHYW1lQjogewogICAgICBtb2RlbDogJ3VzZXJHYW1lJwogICAgfSwKICAgIHN0YXR1czogewogICAgICB0eXBlOiAnc3RyaW5nJywKICAgICAgZW51bTogWwogICAgICAgICcnCiAgICAgIF0KICAgIH0KCiAgfQp9Cg==</text>
+        <text encoding="base64">ICBuZXZlclNoaXBwZWQ6IFsnZGlzcHV0ZWQnXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -608,7 +612,6 @@
         <entry>id</entry>
       </history-search>
       <history-cmd>
-        <entry>s/&quot;/'</entry>
         <entry>s/&quot;/'/g</entry>
         <entry>%s/callback/cb/g</entry>
         <entry>q!</entry>
@@ -627,6 +630,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>e</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

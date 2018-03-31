@@ -215,6 +215,12 @@
         <mark key="^" line="28" column="45" />
         <mark key="." line="28" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/helpers/update-game-swap-status.js" timestamp="1522532437404">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/core/request_modules.coffee" timestamp="1499788622664">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="76" column="44" />
@@ -534,10 +540,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICBhc3luYyBiZWZvcmVVcGRhdGUoc3dhcCwgY2IpIHsKICAgIGNvbnN0IHsgb3duZXIsIHN0YXR1cyB9ID0gc3dhcAogICAgc2FpbHMubG9nLmRlYnVnKG93bmVyLCBzdGF0dXMsIHN3YXApCiAgICBpZiAob3duZXIpIHsKICAgICAgdHJ5IHsKICAgICAgICBjb25zdCBleGlzdGluZ1N3YXAgPSBhd2FpdCBVc2VyR2FtZVN3YXAuZmluZE9uZSh7IG93bmVyIH0pCiAgICAgICAgaWYgKCFzdGF0dXNGU01bZXhpc3RpbmdTd2FwLnN0YXR1c10uaW5jbHVkZXMoc3RhdHVzKSkgewogICAgICAgICAgc3dhcC5zdGF0dXMgPSBleGlzdGluZ1N3YXAuc3RhdHVzCiAgICAgICAgfQogICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgc2FpbHMubG9nLmVycm9yKGUpCiAgICAgIH0KICAgIH0KICAgIGNiKCkKICB9</text>
+        <text>include</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>include</text>
       </register>
       <register name="/" type="4">
         <text>id</text>

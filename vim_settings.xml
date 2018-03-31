@@ -215,11 +215,11 @@
         <mark key="^" line="28" column="45" />
         <mark key="." line="28" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/helpers/update-game-swap-status.js" timestamp="1522532437404">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="18" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="18" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/helpers/update-game-swap-status.js" timestamp="1522533938705">
+        <mark key="[" line="39" column="6" />
+        <mark key="]" line="39" column="12" />
+        <mark key="^" line="39" column="12" />
+        <mark key="." line="39" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/core/request_modules.coffee" timestamp="1499788622664">
         <mark key="[" line="75" column="0" />
@@ -227,11 +227,11 @@
         <mark key="^" line="76" column="44" />
         <mark key="." line="76" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGameSwap.js" timestamp="1522531561877">
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGameSwap.js" timestamp="1522533836023">
         <mark key="'" line="18" column="5" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+        <mark key="[" line="46" column="3" />
+        <mark key="]" line="46" column="3" />
+        <mark key="." line="46" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/test/stubs/redirect_rules/redirect-rules.json" timestamp="1498753016402">
         <mark key="[" line="9" column="5" />
@@ -310,7 +310,7 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520184162124">
+      <file name="/Dummy.txt" timestamp="1522533653841">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -540,10 +540,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>include</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>include</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
@@ -634,10 +634,10 @@
         <entry>w\</entry>
         <entry encoding="base64">JzwsJz4=</entry>
         <entry>wq</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>e</entry>
         <entry>qw</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

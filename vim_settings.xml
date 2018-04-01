@@ -215,11 +215,11 @@
         <mark key="^" line="28" column="45" />
         <mark key="." line="28" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/helpers/update-game-swap-status.js" timestamp="1522533938705">
-        <mark key="[" line="39" column="6" />
-        <mark key="]" line="39" column="12" />
-        <mark key="^" line="39" column="12" />
-        <mark key="." line="39" column="12" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/helpers/update-game-swap-status.js" timestamp="1522541214756">
+        <mark key="[" line="34" column="40" />
+        <mark key="]" line="34" column="41" />
+        <mark key="^" line="34" column="41" />
+        <mark key="." line="34" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/core/request_modules.coffee" timestamp="1499788622664">
         <mark key="[" line="75" column="0" />
@@ -227,11 +227,11 @@
         <mark key="^" line="76" column="44" />
         <mark key="." line="76" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGameSwap.js" timestamp="1522533836023">
-        <mark key="'" line="18" column="5" />
-        <mark key="[" line="46" column="3" />
-        <mark key="]" line="46" column="3" />
-        <mark key="." line="46" column="3" />
+      <file name="$USER_HOME$/Documents/Git/gamevix/api/models/UserGameSwap.js" timestamp="1522541274059">
+        <mark key="'" line="4" column="5" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repos/coupons-front-end/test/stubs/redirect_rules/redirect-rules.json" timestamp="1498753016402">
         <mark key="[" line="9" column="5" />
@@ -539,8 +539,8 @@
       <jump line="18" column="5" filename="$USER_HOME$/Documents/Git/gamevix/api/models/UserGameSwap.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -552,35 +552,47 @@
         <text>,
     &quot;generation&quot;: 6</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICBhc3luYyBiZWZvcmVVcGRhdGUoc3dhcCwgY2IpIHsKICAgIGNvbnN0IHsgb3duZXIsIHN0YXR1cyB9ID0gc3dhcAogICAgc2FpbHMubG9nLmRlYnVnKG93bmVyLCBzdGF0dXMsIHN3YXApCiAgICBpZiAob3duZXIpIHsKICAgICAgdHJ5IHsKICAgICAgICBjb25zdCBleGlzdGluZ1N3YXAgPSBhd2FpdCBVc2VyR2FtZVN3YXAuZmluZE9uZSh7IG93bmVyIH0pCiAgICAgICAgaWYgKCFzdGF0dXNGU01bZXhpc3RpbmdTd2FwLnN0YXR1c10uaW5jbHVkZXMoc3RhdHVzKSkgewogICAgICAgICAgc3dhcC5zdGF0dXMgPSBleGlzdGluZ1N3YXAuc3RhdHVzCiAgICAgICAgfQogICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgc2FpbHMubG9nLmVycm9yKGUpCiAgICAgIH0KICAgIH0KICAgIGNiKCkKICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jk</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWlyZWQ6IHRydWUK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgLy8gYXN5bmMgYmVmb3JlVXBkYXRlKHN3YXAsIGNiKSB7CiAgLy8gICBjb25zdCB7IG93bmVyLCBzdGF0dXMgfSA9IHN3YXAKICAvLyAgIHNhaWxzLmxvZy5kZWJ1Zyhvd25lciwgc3RhdHVzLCBzd2FwKQogIC8vICAgaWYgKG93bmVyKSB7CiAgLy8gICAgIHRyeSB7CiAgLy8gICAgICAgY29uc3QgZXhpc3RpbmdTd2FwID0gYXdhaXQgVXNlckdhbWVTd2FwLmZpbmRPbmUoeyBvd25lciB9KQogIC8vICAgICAgIGlmICghc3RhdHVzRlNNW2V4aXN0aW5nU3dhcC5zdGF0dXNdLmluY2x1ZGVzKHN0YXR1cykpIHsKICAvLyAgICAgICAgIHN3YXAuc3RhdHVzID0gZXhpc3RpbmdTd2FwLnN0YXR1cwogIC8vICAgICAgIH0KICAvLyAgICAgfSBjYXRjaCAoZSkgewogIC8vICAgICAgIHNhaWxzLmxvZy5lcnJvcihlKQogIC8vICAgICB9CiAgLy8gICB9CiAgLy8gICBjYigpCiAgLy8gfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWlyZWQ6IHRydWUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWlyZWQ6IHRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWlyZWQ6IHRydWUsCg==</text>
+      <register name="5" type="4">
+        <text>// const statusFSM = {
+//   waitingForMatch: ['matched'],
+//   matched: ['accepted', 'rejected'],
+//   accepted: ['shipped', 'neverShipped', 'waitingForMatch'],
+//   rejected: ['waitingForMatch'],
+//   shipped: ['lostInShipping', 'received', 'neverReceived'],
+//   neverShipped: ['disputed'],
+//   received: ['succeed', 'disputed'],
+//   neverReceived: ['disputed'],
+//   lostInShipping: ['disputed'],
+//   disputed: [],
+//   succeed: []
+// }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWlyZTogdHJ1ZQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICBhc3luYyBiZWZvcmVVcGRhdGUoc3dhcCwgY2IpIHsKICAgIGNvbnN0IHsgb3duZXIsIHN0YXR1cyB9ID0gc3dhcAogICAgc2FpbHMubG9nLmRlYnVnKG93bmVyLCBzdGF0dXMsIHN3YXApCiAgICBpZiAob3duZXIpIHsKICAgICAgdHJ5IHsKICAgICAgICBjb25zdCBleGlzdGluZ1N3YXAgPSBhd2FpdCBVc2VyR2FtZVN3YXAuZmluZE9uZSh7IG93bmVyIH0pCiAgICAgICAgaWYgKCFzdGF0dXNGU01bZXhpc3RpbmdTd2FwLnN0YXR1c10uaW5jbHVkZXMoc3RhdHVzKSkgewogICAgICAgICAgc3dhcC5zdGF0dXMgPSBleGlzdGluZ1N3YXAuc3RhdHVzCiAgICAgICAgfQogICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgc2FpbHMubG9nLmVycm9yKGUpCiAgICAgIH0KICAgIH0KICAgIGNiKCkKICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWlyZTogdHJ1ZSwK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgcmVxdWlyZWQ6IHRydWUK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgcmVxdWlyZWQ6IHRydWUsCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwb3RlbnRpYWxOZXh0U3RhdGUgPQo=</text>
+        <text encoding="base64">ICAgICAgcmVxdWlyZWQ6IHRydWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
